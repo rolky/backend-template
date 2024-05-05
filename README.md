@@ -42,7 +42,7 @@ The `config.js` file contains system configuration settings, including applicati
 1. Clone the repository:
    ```bash
    git clone https://github.com/rolky/backend-template.git
-   cd express-postgresql-project
+   cd backend-template
    ```
 
 2. Install dependencies:
